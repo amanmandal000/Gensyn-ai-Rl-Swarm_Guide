@@ -344,7 +344,6 @@ source ~/.bashrc
 go version
 ```
 
-
 ### Mac
 
 ```
